@@ -1,0 +1,73 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+25,critical,Normal,Windows,parth@gmail.com,NEW,---,check the city with invalid name
+26,critical,Normal,Windows,parth@gmail.com,NEW,---,check the state with invalid name
+27,critical,Normal,Windows,parth@gmail.com,NEW,---,check zip/postal code with four numers
+29,critical,Normal,Windows,parth@gmail.com,NEW,---,check zip/postal proper code with invalid city
+30,critical,Normal,Windows,parth@gmail.com,NEW,---,check zip/postal code with four numers with invalid state
+31,critical,Normal,Windows,parth@gmail.com,NEW,---,check zip/postal code with four numers with invalid country
+32,critical,Normal,Windows,parth@gmail.com,NEW,---,check zip/postal code with more than 5 numbers
+33,critical,Normal,Windows,parth@gmail.com,NEW,---,check zip/postal code with more than 5 numbers with invalid city
+34,critical,Normal,Windows,parth@gmail.com,NEW,---,check zip/postal code with more than 5 numbers with invalid state
+35,critical,Normal,Windows,parth@gmail.com,NEW,---,check zip/postal code with more than 5 numbers with invalid country
+36,critical,Normal,Windows,parth@gmail.com,NEW,---,check proper zip/postal code with invalid city
+37,critical,Normal,Windows,parth@gmail.com,NEW,---,check proper zip/postal code with invalid state
+38,critical,Normal,Windows,parth@gmail.com,NEW,---,check proper zip/postal code with invalid country
+39,critical,Normal,Windows,parth@gmail.com,NEW,---,check zip/postal code with alphaets
+40,critical,Normal,Windows,parth@gmail.com,NEW,---,check zip/postal code with numbers
+6,critical,Normal,Windows,raj@gmail.com,NEW,---,check send button with giving three dots after the domain
+7,major,Normal,Windows,raj@gmail.com,NEW,---,check send button with giving all characters as username
+21,critical,Normal,Windows,raj@gmail.com,NEW,---,"check send button with proper message with alphabets, numbers and special characters without space"
+22,critical,Normal,Windows,raj@gmail.com,NEW,---,check send button with proper image
+23,critical,Normal,Windows,raj@gmail.com,NEW,---,"check send button with proper message with alphabets, numbers and special characters without space"
+8,critical,Low,Windows,raj@gmail.com,NEW,---,check send button with giving 2 same email domains
+9,critical,Low,Windows,raj@gmail.com,NEW,---,check send button with giving 2 different email domains
+10,critical,Low,Windows,raj@gmail.com,NEW,---,check send button with giving .web instead of .com
+12,normal,Low,Windows,raj@gmail.com,NEW,---,check send button with giving  spaces
+13,normal,Low,Windows,raj@gmail.com,NEW,---,check send button with giving _between numers of the order reference
+14,normal,Low,Windows,raj@gmail.com,NEW,---,check send button with giving _between alphabets and numbers of the order reference
+15,normal,Low,Windows,raj@gmail.com,NEW,---,check send button with giving alphabets and numbers of the order reference
+16,normal,Low,Windows,raj@gmail.com,NEW,---,check send button with giving alphabets of the order reference
+17,normal,Low,Windows,raj@gmail.com,NEW,---,check send button with giving space between alphabets and numbers of the order reference
+18,normal,Low,Windows,raj@gmail.com,NEW,---,check send button with giving dot between alphabets and numbers of the order reference
+20,critical,Low,Windows,raj@gmail.com,NEW,---,"check send button with proper message with alphabets, numbers and special characters followed by space"
+2,major,High,Windows,vijay@gmail.com,ASSIGNED,---,product is not displaying properly so that how can we buy the product
+68,critical,High,Windows,vijay@gmail.com,ASSIGNED,---,check sun glasses and eye wear on home screen
+69,critical,High,Windows,vijay@gmail.com,ASSIGNED,---,check savvy trends handags on home screen
+55,critical,Normal,Windows,khushbu@gmail.com,ASSIGNED,---,check search button with blank name
+57,critical,Normal,Windows,khushbu@gmail.com,ASSIGNED,---,check quantity button with characters
+58,critical,Normal,Windows,khushbu@gmail.com,ASSIGNED,---,check quantity button with blank
+59,critical,Normal,Windows,khushbu@gmail.com,ASSIGNED,---,check search button with proper details
+41,critical,Normal,Windows,parth@gmail.com,ASSIGNED,---,check zip/postal code with special characters
+42,critical,Normal,Windows,parth@gmail.com,ASSIGNED,---,check zip/postal code with numbers and alphaets
+43,critical,Normal,Windows,parth@gmail.com,ASSIGNED,---,check zip/postal code with numbers and special characters
+44,critical,Normal,Windows,parth@gmail.com,ASSIGNED,---,check zip/postal code with alphabets and special characters
+45,critical,Normal,Windows,parth@gmail.com,ASSIGNED,---,"check zip/postal code with numbers,alphabets and special characters"
+46,critical,Normal,Windows,parth@gmail.com,ASSIGNED,---,check zip/posta code with space
+47,critical,Normal,Windows,parth@gmail.com,ASSIGNED,---,check mobile phone with alphabets
+48,critical,Normal,Windows,parth@gmail.com,ASSIGNED,---,check mobile phone with invalid numbers
+49,critical,Normal,Windows,parth@gmail.com,ASSIGNED,---,check mobile phone with  5 numbers
+50,critical,Normal,Windows,parth@gmail.com,ASSIGNED,---,check mobile phone with 35 numbers
+51,critical,Normal,Windows,parth@gmail.com,ASSIGNED,---,check mobile phone with special characters
+52,critical,Normal,Windows,parth@gmail.com,ASSIGNED,---,check mobile phone with spaces
+53,critical,Normal,Windows,parth@gmail.com,ASSIGNED,---,check save button with blank name
+3,normal,Normal,Windows,vijay@gmail.com,ASSIGNED,---,it must open the 70% off page
+54,critical,Normal,Windows,vijay@gmail.com,ASSIGNED,---,check your logo is new experience image
+61,critical,Normal,Windows,vijay@gmail.com,ASSIGNED,---,check sale get upto 25% off button
+62,critical,Normal,Windows,vijay@gmail.com,ASSIGNED,---,check summer collection 45% off button
+63,critical,Normal,Windows,vijay@gmail.com,ASSIGNED,---,chceck popular on home screen
+65,critical,Normal,Windows,vijay@gmail.com,ASSIGNED,---,check top trends on home screen
+66,critical,Normal,Windows,vijay@gmail.com,ASSIGNED,---,check men's coats and jackets on home screen
+67,critical,Normal,Windows,vijay@gmail.com,ASSIGNED,---,check women's coats and jackets on home screen
+70,minor,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check newsletter function on footer
+72,minor,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check store imformation function on footer
+4,critical,Low,Windows,raj@gmail.com,ASSIGNED,---,to send the whole contact us details
+5,critical,Low,Windows,raj@gmail.com,ASSIGNED,---,to show proper validation message
+11,normal,Low,Windows,raj@gmail.com,ASSIGNED,---,check send button with giving full of special characters
+1,critical,High,Windows,parth@gmail.com,RESOLVED,FIXED,if any email or password will enter then login successful
+24,minor,High,Windows,parth@gmail.com,RESOLVED,FIXED,check password with spaces
+56,critical,Normal,Windows,khushbu@gmail.com,RESOLVED,FIXED,check quantity button with alphabets
+28,critical,Normal,Windows,parth@gmail.com,RESOLVED,FIXED,check zip/postal code with four nubmers with inavlid city
+19,critical,Normal,Windows,raj@gmail.com,RESOLVED,FIXED,check send button with full of special characters
+60,critical,Normal,Windows,vijay@gmail.com,RESOLVED,FIXED,check shop now image on home page
+64,critical,Normal,Windows,vijay@gmail.com,RESOLVED,FIXED,check best seller on home screen
+71,minor,Low,Windows,khushbu@gmail.com,RESOLVED,FIXED,check email with registered email on footer
